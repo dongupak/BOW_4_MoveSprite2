@@ -13,4 +13,7 @@
     
 }
 
+//GameLayer의 자식으로서 CCScene 메서드를 호출한다.
++(CCScene *) scene;
+
 @end
